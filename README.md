@@ -1,6 +1,6 @@
 # norm_intention_change
 
-This repository contains the data and code supporting the paper 'XXXXXXXXX' by Ana da Silva Pinho, Lucas Molleman, Barbara R. Braams, Wouter van den Bos.
+This repository contains the data and code supporting the paper 'The impact of group norms on intentions from late adolescence to adulthood' by Ana da Silva Pinho, Lucas Molleman, Barbara R. Braams, Wouter van den Bos.
 
 The data file 'younger_adults.csv' consists of Study 1 data (ages 18-24), 'older_adults.csv' consists of Study 2 data (ages 35-45), and 'both_groups.csv' contains data from both age groups. Variables description is available in 'variable_description.xlsx'.
 
