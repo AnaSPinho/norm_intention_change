@@ -1,6 +1,6 @@
 # norm_intention_change
 
-This repository contains the data and code supporting the paper 'The impact of group norms on intentions from late adolescence to adulthood'.
+This repository contains the data and code supporting the paper 'Pathways from Norms to Intentions: a Developmental Perspective'.
 
 The data file 'younger_adults.csv' consists of Study 1 data (ages 18-24), 'older_adults.csv' consists of Study 2 data (ages 35-45), and 'both_groups.csv' contains data from both age groups. Variables description is available in 'variable_description.xlsx'.
 
